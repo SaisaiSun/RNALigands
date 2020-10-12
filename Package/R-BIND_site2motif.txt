@@ -1,0 +1,127 @@
+0003
+B1 (C,G) UGA (U,A)	Ribocil-C
+M1 (C,G) GG (G,C) G (G,C) GACCUG (C,G) U (G,C) GA (C,G) GAUGGGA (G,C) 	Ribocil-C
+0005
+M1 (A,U) UAA (C,G) GUGUCUAC (C,G) AU (U,A) 	2'6-Diaminopurine
+X1 AAUUU	2'6-Diaminopurine
+E2 UUUUUUGUAAUCAGGAUUUUUUUU	2'6-Diaminopurine
+0006
+M1 (U,A)  (A,U) CAUAA (C,G) GA (A,U) 	Pyrithiamine
+0007
+M1 (A,U) UAA (U,A) GUUUCUAC (C,G) AC (U,A) 	2-Amino-N6-Hydroxyadenine
+0008
+M1 (A,U) UAA (U,A) GUUUCUAC (C,G) AC (U,A) 	PC1
+0021
+B1 (C,G) A (G,C)	Compound_1
+0022A
+B1 (C,G) A (G,C)	Compound_2
+0022B
+I3 (G,C) G (C,G) G	Compound_2
+I4 (C,G) G (G,C) G	Compound_2
+0023
+B1 (C,G) A (G,C)	Compound_4
+0025
+I2 (U,A) U (U,A) U	Benzimidazole_1_(2014)
+0026
+I1 (C,G) A (G,C) A	D6
+0027A
+I2 (C,G) G (G,C) G	Hydroxyellipticine_1a
+0027B
+I3 (G,C) G (C,G) G	Hydroxyellipticine_1a
+I4 (C,G) G (G,C) G	Hydroxyellipticine_1a
+0028
+I2 (C,G) U (G,C) U	Benzimidazole_1_(2015)
+0029
+I2 (C,G) U (G,C) U	Benzimidazole_16_(2015)
+0030
+I2 (C,G) U (G,C) U	Benzimidazole_17_(2015)
+0031
+I1 (C,G) U (G,C) U	H1
+0032
+I1 (C,G) U (G,C) U	Lomofungin
+0033A
+I2 (C,G) U (G,C) U	Naphthyridine_2
+0033B
+I2 (A,U) U (C,G) U	Naphthyridine_2
+0034
+I2 (C,G) U (G,C) U	p1
+0035
+I2 (C,G) U (G,C) U	p7
+0039
+B1 (G,C) AACUCC (U,A)	IRAB
+0040
+B1 (G,C) AACUA (C,G)	Benzimidazole 3
+0041
+B1 (G,C) AACUA (C,G)	Benzimidazole_10
+0042
+B1 (G,C) AACUA (C,G)	Benzimidazole_11_/_Isis-11
+0043
+B1 (G,C) AACUA (C,G)	Benzimidazole_12
+0044
+B1 (G,C) AACUA (C,G)	Benzimidazole_13_/_Isis-13
+0045
+B1 (G,C) AACUA (C,G)	Isis-22
+0047
+I1 (G,C) GG (C,G) GUA	Clomiphene
+0048
+I1 (G,C) GG (C,G) GUA	Cyproheptadine
+0049
+H1 (C,G) CUGGGA	4478-7480
+0050
+B1 (A,U) UCU (G,C)	Aminoquinolone_7a
+0051
+B1 (A,U) UCU (G,C)	Aminoquinolone_8a
+0052
+B1 (A,U) UCU (G,C)	Aminoquinolone_22a
+0053
+B1 (A,U) UCU (G,C)	WM5
+0054
+B1 (A,U) UUU (G,C)	DB60
+0055A
+B1 (A,U) UUU (G,C)	DB75_/_Furamidine
+0056
+B1 (A,U) UCU (G,C)	Prochlorperazine
+0057
+H1 (C,G) CUGGGA	Quinozaline_3
+0058
+B1 (A,U) UCU (G,C)	S-Amino_Acid_Conjugate_1b
+0059
+B1 (A,U) UCU (G,C)	S-Amino_Acid_Conjugate_3b
+0060
+H1 (C,G) CUGGGA	ST4133609
+0062
+B1 (A,U) A (G,C)	DPQ_6
+0063
+B1 (A,U) A (G,C)	DPQ_7
+0064
+B1 (A,U) A (G,C)	DPQ_8
+0065
+B1 (A,U) A (G,C)	DPQ_10
+0069
+B1 (G,C) A (U,A)	Targapremir-18a
+B2 (A,U) U (C,G)	Targapremir-18a
+0070
+I6 (A,U) C (U,A) C	Targapremir-210
+0071
+B1 (G,C) AACUA (C,G)	Compound_2ab
+0072
+H1 (C,G) GGAG	NSC260594
+0073
+B1 (G,C) A (C,G)	p-Terphenyl_6b
+I1 (G,C) GG (C,G) GUA	p-Terphenyl_6b
+0074
+B1 (A,U) UCU (G,C)	Phenylquinolone_5
+0075
+B1 (A,U) UCU (G,C)	Phenylquinolone_6
+0076
+M1 (A,U) UAA (U,A) GUUUCUAC (C,G) AC (U,A) 	Guanine Analog_25f
+0077
+M1 (G,C) AGGU (G,C) CGA (A,U)  (G,U) G (U,G) AGGG (C,G) 	Lysine_Analog_8
+0078
+M1 (G,C) AGGU (G,C) CGA (A,U)  (G,U) G (U,G) AGGG (C,G) 	Lysine_Analog_9
+0079
+M1 (G,C) AGGU (G,C) CGA (A,U)  (G,U) G (U,G) AGGG (C,G) 	Lysine_Analog_11
+0081
+I2 (C,G) U (G,C) U	EBAB
+0082
+I2 (C,G) U (G,C) U	Pentamidine-Like_Compound_2-5

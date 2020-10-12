@@ -1,0 +1,388 @@
+I1 (U,G) A (U,A) A	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) A (U,A) A	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (G,C) C (C,G) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+H1 (U,A) AAGA	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+I1 (A,U) U (A,U) U	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (C,G) A (U,A) A	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (A,U) A (U,A) A	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (C,G) A (C,G) A	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (U,A) A (U,A) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) A (U,A) C	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (U,A) A (U,A) C	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (U,A) G (A,U) A	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+B1 (U,A) G (C,G)	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+B1 (U,A) U (G,C)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (G,C) U (G,C)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) G (C,G)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) G (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) G (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (U,A) A (G,C)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (U,A) A (G,C)	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+B1 (A,U) C (U,A)	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+B1 (A,U) C (U,A)	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+B1 (A,U) C (U,A)	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (U,A) U (G,U) C	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (G,C) G (G,U) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) G (C,G) G	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) G (A,U) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) U (A,U)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (G,C) U (A,U)	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+B1 (C,G) C (U,A)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) C (U,A)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) C (U,A)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) C (U,A)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) C (C,G) C	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (U,A) G (U,G) G	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) C (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+B1 (A,U) U (G,C)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (A,U) U (G,C)	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (U,A) A (U,A) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) A (U,A) G	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (C,G) U (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) U (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) GUGGUG	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (G,C) U (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) A (C,G) A	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (C,G) UUU (C,G) UU	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) A (U,A)	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+B1 (C,G) A (U,A)	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+I1 (C,G) U (C,G) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) A (G,C)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) C (U,A) A	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+B1 (G,C) C (U,A)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) A (A,U) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (A,U) G (U,A) G	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (A,U) G (U,A) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) G (U,A) G	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (G,C) U (C,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) G (U,A) A	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (G,C) C (G,C)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (U,A) A (A,U) A	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (U,A) A (A,U) A	NC(C=C1)=CC=C1C2=CC3=CC=C(C4=NCCN4)C=C3N2
+B1 (G,C) A (C,G)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) A (C,G)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) A (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) A (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) C (C,G) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (C,G) A	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,A) G (A,U) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) G (A,U) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) G (A,U) G	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (U,A) G (A,U) G	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+I1 (C,G) C (C,G) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) C (G,C) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+H1 (G,C) UCGA	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (G,C) UCGA	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (G,C) U (G,C)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (G,U) A (G,C) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (A,U) UACA	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (G,C) A (C,G) C	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) A (C,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) A (C,G) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,U) A (A,U) A	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+B1 (A,U) U (U,A)	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+B1 (A,U) U (U,A)	NC(C=C1)=CC=C1C2=CC3=CC=C(C4=NCCN4)C=C3N2
+I1 (G,U) U (G,C) C	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,G) U (U,A) U	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) U (U,A) U	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (U,G) U (U,A) U	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (U,G) U (U,A) U	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+B1 (G,C) U (C,G)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (U,G) A (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) G (C,G) G	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) G (C,G) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) G (C,G) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) A (G,C) A	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (C,G) A (G,C) A	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+B1 (U,A) C (G,C)	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (U,A) A (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) A (U,A) A	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (U,A) A (U,A) A	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (U,A) U (U,G) U	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (C,G) A (A,U) G	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) A (G,C) G	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) CG (U,G) UU	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+I1 (A,U) A (C,G) A	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+H1 (C,G) CUCU	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) UUUGAU	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+B1 (G,C) C (G,C)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (A,U) C (U,A)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (A,U) C (U,A)	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+B1 (A,U) C (U,A)	NC(C=C1)=CC=C1C2=CC3=CC=C(C4=NCCN4)C=C3N2
+B1 (G,C) A (U,A)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) A (U,A)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (G,C) A (U,A)	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+B1 (G,C) A (U,A)	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (C,G) A (A,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (U,A) C (A,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (U,A) C (A,U)	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+H1 (U,A) UCUA	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+I1 (G,U) C (A,U) C	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (C,G) C (C,G) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+H1 (C,G) AAAACC	O=C(NCCN(CC)CC)C1=CC2=CC=C(NC(C3=CC4=C(C=C(N)C=C4)N3)=O)C=C2N1
+H1 (C,G) UGGUGU	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (C,G) C (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (C,G) C (U,A) A	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+H1 (C,G) CACCAU	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+I1 (A,U) CA (U,A) AC	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (A,U) CA (U,A) AC	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (G,C) C (A,U) A	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (C,G) UG (U,A) UA	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (G,C) G (C,G) A	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (C,G) C (U,A) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (A,U) C (A,U)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (A,U) C (A,U)	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) G (U,A) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) G (U,A) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) G (U,A) G	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (A,U) U (U,A) C	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (A,U) U (U,A) C	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (A,U) C (U,A) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) C (U,A) C	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (A,U) C (U,A) C	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+B1 (U,A) C (U,A)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (C,G) U (C,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) C (C,G) U	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) C (C,G) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) C (C,G) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (G,C) C (A,U)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) C (A,U)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) C (A,U)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,A) C (G,C) U	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+H1 (C,G) UCCA	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (G,U) C (U,A) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) U (G,C) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) U (G,C) U	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+I1 (G,C) C (U,G) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+B1 (G,C) G (U,G)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) G (U,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) G (U,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) U (U,A) U	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+H1 (U,A) CCUC	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+B1 (G,C) U (U,A)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) GA (U,A) GA	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+I1 (G,G)  (G,U) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) A (U,G) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) U (G,U) U	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (G,C) C (G,C) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (G,C) C (G,C) A	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (G,A)  (C,G) 	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+B1 (A,U) U (A,U)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (A,U) U (A,U)	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+B1 (U,A) A (A,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (U,A) A (A,U)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (U,A) A (A,U)	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+B1 (U,A) A (A,U)	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+B1 (U,A) A (A,U)	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+I1 (C,G) U (G,U) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,C) A (A,U) G	NC(C=C1)=CC=C1C2=CC3=CC=C(C4=NCCN4)C=C3N2
+B1 (G,C) A (U,G)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,C) A (U,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) A (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+H1 (G,U) UUCC	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+I1 (C,G) UC (U,A) UU	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+H1 (C,G) AUUC	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+H1 (G,C) AUCU	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) C (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,C) C (U,A) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (G,C) C (U,A) C	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+I1 (A,U) A (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (A,U) A (U,A) C	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (C,G) G (C,G) G	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (G,G)  (A,U) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,G)  (A,U) 	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,G)  (A,U) 	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (G,G)  (A,U) 	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+H1 (A,U) AAAA	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (A,U) C (A,U) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+H1 (U,A) UCUU	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (A,U) A (U,A)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (A,U) A (U,A)	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+B1 (A,U) A (U,A)	NC(C=C1)=CC=C1C2=CC3=CC=C(C4=NCCN4)C=C3N2
+I1 (U,A) U (G,C) C	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+H1 (C,G) UCCA	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (U,G) G (U,G) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) G (U,G) G	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (G,C) CU (U,G) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) G (G,U) A	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (G,U) C (G,U) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) U (A,U) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) A (C,G) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (C,G) G (A,U) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (U,A) A (C,G)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (U,A) A (C,G)	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+B1 (U,A) A (C,G)	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+B1 (U,A) A (C,G)	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+I1 (U,A) C (G,U) U	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,G) G (C,G) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) C (U,A) U	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (A,U) C (U,A) U	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (U,A) AG (C,G) GG	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) UCUU	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,G)  (C,G) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (G,C) UCGG	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (U,A) A	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) C (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (U,A) C (U,A) A	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (U,A) C (U,A) A	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (U,G) C (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) C (U,A) C	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (U,A) C (G,C) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,G) C (A,U) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) A (A,U) C	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (U,A) A (A,U) C	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (U,A) G (C,G) A	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) A (A,U) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) A (A,U) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) C (A,U) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) C (A,U) U	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (A,U) A (C,G) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,G)  (U,A) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,G)  (U,A) 	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,G)  (U,A) 	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,A) C (G,U) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) G (U,A) A	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) C (U,A) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,U) C (U,A) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (G,U) C (U,A) C	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,A) C (U,A) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (U,A) C	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,A) C (U,A) C	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (U,A) C (U,A) C	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (U,A) C (A,U) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (C,G) A (G,U) G	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+H1 (C,G) ACUU	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+B1 (U,A) U (A,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (U,A) U (A,U)	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+B1 (U,A) U (A,U)	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+H1 (A,U) AGGC	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (U,A) U	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) C (U,A) U	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (C,G) C (G,C) C	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (U,A) U (U,A) C	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+I1 (U,A) U (U,A) C	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (A,U) G (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (A,U) AAAA	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (G,U) C (A,U) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+H1 (G,C) UGCA	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) U (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,G)  (C,G) 	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,G)  (C,G) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) CAGU	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (U,A) U (C,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) U (C,G) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (A,U) A (U,A) G	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) A (U,A) G	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (A,U) A (U,A) G	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+B1 (C,G) G (U,G)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) C (U,A) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) C (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (C,G) C (U,A) C	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (C,G) C (U,A) C	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+H1 (A,U) AAAA	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+B1 (A,U) G (U,G)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+H1 (C,G) ACCU	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,U) U (G,U) U	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+I1 (G,C) A (U,G) G	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) A (U,G) G	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (G,C) AC (U,A) CA	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+I1 (A,U) C (A,U) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+B1 (U,A) G (A,U)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+H1 (A,U) AAAU	CN[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OC2C(O[C@@H]3[C@H](O)[C@@H](O)[C@@H](NC(N)=N)[C@@H](O)[C@@H]3NC(N)=N)OC(C)C2(CNCCCN=[N+]=[N-])O
+H1 (C,G) AUGC	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (C,G) C (U,G) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+H1 (A,U) UAAUAU	O=C(NCCN(CC)CC)C1=CC2=CC=C(NC(C3=CC4=C(C=C(N)C=C4)N3)=O)C=C2N1
+I1 (U,A) CU (C,G) UC	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+H1 (A,U) AAAG	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (A,A)  (U,A) 	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (A,A)  (U,A) 	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (A,A)  (U,A) 	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+H1 (G,C) UGUC	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (U,G) C (U,A) A	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) C (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) U (U,A) U	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (U,A) U (U,A) U	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (U,C)  (C,G) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,C)  (C,G) 	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,U) A (C,G) A	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+I1 (U,A) U (U,G) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+B1 (G,U) U (C,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) G (U,A)	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,C) UC (U,A) CA	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+I1 (U,U)  (G,C) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,U)  (G,C) 	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+I1 (G,C) U (U,A) U	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (C,G) C (G,U) A	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (G,U) U (A,U) C	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+H1 (G,C) UUAA	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+B1 (C,G) CC (U,A)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) UGCACU	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+I1 (C,A)  (A,U) 	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+H1 (A,U) AUCU	N[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2O[C@@H](C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O4)[C@H]4[C@@H](O)[C@@H]2NC)O[C@@H]1CN=[N+]=[N-]
+I1 (A,U) GG (U,A) GG	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (A,U) C (G,U)	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+I1 (U,G) A (C,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) AUUUAC	O=C(NCCN(CC)CC)C1=CC2=CC=C(NC(C3=CC4=C(C=C(N)C=C4)N3)=O)C=C2N1
+I1 (U,G) C (U,G) U	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+B1 (C,G) G (A,U)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (C,G) G (A,U)	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+B1 (C,G) G (A,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (C,G) G (A,U)	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+I1 (A,A) A (U,A) C	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) A (G,C) A	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+H1 (G,C) UGCG	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+H1 (G,C) UGCG	O=C(NCCN(CC)CC)C1=CC2=CC=C(NC(C3=CC4=C(C=C(N)C=C4)N3)=O)C=C2N1
+H1 (G,C) AAUU	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,G) G (C,G) A	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (U,G) CG (U,A) AA	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (C,G) AA (U,A) GC	N=C(N)NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@H](O[C@@H]4[C@H](NC(N)=N)[C@@H](O)[C@H](O)C(CNC(N)=N)O4)[C@@H]3O)[C@@H](O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)[C@H](NC(N)=N)[C@@H](O)[C@@H]1O
+H1 (A,U) AUAC	O=C(NCCN(CC)CC)C1=CC2=CC=C(NC(C3=CC4=C(C=C(N)C=C4)N3)=O)C=C2N1
+I1 (G,C) UU (C,G) U	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (G,U) G (C,G)	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) GU (U,A) GU	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+H1 (G,U) AUGG	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (U,A) UU (U,A) UC	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (U,G) A	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,A) C (U,G) A	CN1CCN(C2=CC(NC(C3=CC(NC(C4=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C4)=N5)=C5C=C3)=N6)=C6C=C2)CC1
+I1 (C,A)  (G,C) 	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,G) A (U,A) C	NC(C=C1)=CC=C1C2=CC3=CC=C(C4=NCCN4)C=C3N2
+H1 (C,G) CAGU	OCC(C(O[C@@H]1O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]1N)C2O)OC2O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CN=[N+]=[N-])O4
+I1 (U,A) UA (U,A) UA	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (C,G) C (U,G) U	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (U,G) C (G,U) U	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (A,U) UACU	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,U)  (C,G) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (G,C) AGGC	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (C,C)  (C,G) 	O=C(NCCCN=[N+]=[N-])CCCOC1=CC=CC(C2=NC(C=C3)=C(N2)C=C3C4=NC(C=C5)=C(N4)C=C5N6CCN(C)CC6)=C1
+B1 (U,G) U (A,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,G) U (C,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (U,A) UAAU	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+H1 (U,G) UUGU	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+B1 (U,A) C (G,U)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (U,A) C (G,U)	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+B1 (U,A) C (G,U)	OC1C(O[C@@H]2O[C@@H](CN)[C@H](O)[C@@H](O)[C@@H]2N)C(CN=[N+]=[N-])OC1O[C@H]([C@@H](O)[C@H](N)C[C@@H]3N)[C@@H]3O[C@@H]4[C@H](N)[C@@H](O)[C@H](O)[C@@H](CO)O4
+H1 (A,U) ACAA	N=C(N)C1=CC=C(NC2=CC=C(C3=CC(C=CC(C(N)=N)=C4)=C4N3)C=C2)C=C1
+I1 (U,U) G (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (A,G) A (U,G) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,A)  (U,A) 	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (C,A)  (U,A) 	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (C,A)  (U,A) 	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(NC(N)=N)[C@@H]3O)[C@H](NC(N)=N)C[C@@H]2NC(N)=N)O[C@@H]1CNC(N)=N
+I1 (C,A)  (U,A) 	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (C,A)  (U,A) 	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+I1 (U,G) U (A,U) U	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (U,G) GCCU	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (U,G) GCCU	NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)[C@@H](N)[C@@H]3O)[C@H](NC(C(O)CCN)=O)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O
+H1 (C,G) UGUG	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+B1 (U,G) G (U,G)	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (A,U) UA (U,A) UA	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+H1 (A,U) AUAG	NC[C@H]1O[C@H](OC2[C@H](OC3OC(CN=[N+]=[N-])C(O)C3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+H1 (G,C) GGCU	O[C@H]([C@@H](O)[C@H](N)C[C@@H]1N)[C@@H]1O[C@@H]2[C@H](N)[C@@H](O)[C@H](O)[C@@H](CNC(CCCC#C)=O)O2
+I1 (G,U) C (U,A) A	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) AA (A,U) AC	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+I1 (U,A) C (U,G) C	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CO)[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CNC(CCCC#C)=O
+I1 (U,A) C (U,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](OCCN=[N+]=[N-])[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+I1 (U,A) C (U,G) C	O[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CN=[N+]=[N-])[C@@H](O[C@H]4O[C@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)O[C@@H]1CN
+H1 (C,G) AAUA	CN1CCN(C2=CC(NC(C3=CC(C(C)(C)C)=C(OCCCC(NCCCN=[N+]=[N-])=O)C(C(C)(C)C)=C3)=N4)=C4C=C2)CC1
+H1 (A,U) UAUG	O=C(NCCN(CC)CC)C1=CC2=CC=C(NC(C3=CC4=C(C=C(N)C=C4)N3)=O)C=C2N1
+H1 (U,A) UAGC	O[C@H]1C[C@@H](N)[C@@H](O[C@H]2C(O)[C@@H](O[C@@H]3O[C@@H](CN=[N+]=[N-])[C@H](O)C(N)[C@@H]3O)[C@H](N)C[C@@H]2N)O[C@@H]1CN

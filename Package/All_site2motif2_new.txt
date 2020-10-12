@@ -1,0 +1,511 @@
+1am0_A
+H1 (G,G) GAA	AMP
+H2 (A,G) AACU	AMP
+M1 (G,C)  (G,G)  (A,G)  (U,A) G (C,G) 	AMP
+1arj_N
+H1 (C,G) CUGGGA	ARG
+B1 (A,U) UCU (G,C)	ARG
+1byj_A
+I1 (G,C) U (C,G) U	GE3
+I1 (G,C) U (C,G) U	GE2
+I2 (C,G) A (C,G) AA	GE3
+I2 (C,G) A (C,G) AA	GE1
+I2 (C,G) A (C,G) AA	GE2
+1ddy_A
+I1 (A,A) UA (A,C) G	B12
+I1 (A,A) UA (A,C) G	NME
+E1 GGAACCGGUGC	NME
+PK2 (C,G) 	B12
+PK2 (C,G) 	NME
+1eht_A
+B1 (C,A) CUU (G,C)	TEP
+I1 (A,G) UA (C,G) CA	TEP
+PK1 (U,A) 	TEP
+1ei2_A
+H1 (A,U) GUACCU	NMY
+B1 (C,G) A (G,C)	NMY
+1f1t_A
+B1 (G,C) AAU (G,C)	ROS
+I1 (G,C) A (C,G) GUAA	ROS
+1f27_A
+H1 (U,A) CAGAGGAC	BTN
+1fmn_A
+I1 (G,G) GA (U,A) A	FMN
+1i9v_A
+H1 (C,G) AGUUGGGA	NMY
+M1 (U,G) UA (G,C)  (G,G) AGGU (C,A)  (G,U) 	NMY
+1kod_B
+H1 (A,G) G	CIR
+E1 ACGGUU	CIR
+1lvj_A
+B1 (A,U) UCU (G,C)	PMZ
+1nbk_A
+B1 (C,G) UU (G,C)	GND
+B2 (G,C) UC (G,C)	GND
+1nem_A
+H1 (G,A) AGA	BDR
+H1 (G,A) AGA	NEB
+H1 (G,A) AGA	BDG
+H1 (G,A) AGA	IDG
+1nta_A
+H1 (G,G) CAUUUG	SRY
+E2 ACUUCUGCC	SRY
+1q29_A
+H1 (G,C) GUGGUCUGAUGAGGC	CO
+1raw_A
+H1 (G,G) GAA	AMP
+M1 (G,C)  (G,G) AAACU (G,G)  (C,G) 	AMP
+1tob_A
+H1 (U,U) UAGC	TOA
+H1 (U,U) UAGC	TOB
+H1 (U,U) UAGC	TOC
+B1 (C,G) A (C,G)	TOA
+B1 (C,G) A (C,G)	TOB
+1y26_X
+H2 (G,C) UUUCUA	ADE
+M1 (A,U) UAA (U,A)  (G,C)  (C,G) AU (U,A) 	ADE
+PK1 (U,A) 	ADE
+1yxp_A
+H1 (G,C) AAGUGCACA	ZN
+2au4_A
+H1 (A,G) GU	GTP
+I1 (G,A) G (G,U) GUG	GTP
+M1 (G,C) A (A,G) GU (U,A) AA (C,G) 	GTP
+PK1 (G,G) 	GTP
+2cky_A
+H2 (U,A) GAG	TPP
+H3 (G,C) GUAAUG	TPP
+B3 (G,G) C (A,U)	TPP
+I1 (G,C) G (U,A) GU	TPP
+I2 (G,G) AA (C,G) C	TPP
+M2 (U,A)  (G,C)  (U,A) A (A,U) 	TPP
+PK1 (G,G) 	TPP
+2ees_A
+H2 (G,C) UUUCUA	HPA
+M1 (U,A) UAA (U,A)  (G,C)  (C,G) AC (A,U) 	HPA
+PK1 (U,A) 	HPA
+2eeu_A
+H2 (G,C) UUUCUU	HPA
+M1 (A,U) AAA (U,A)  (G,C)  (C,G) AC (U,A) 	HPA
+PK1 (A,U) 	HPA
+2hok_A
+H2 (U,A) GAG	TPP
+I1 (G,A) G (U,A) U	TPP
+M2 (U,A)  (G,C)  (U,A) A (A,U) 	TPP
+PK1 (G,G) 	TPP
+2hoo_A
+H3 (C,U) CUGAUC	BFT
+I1 (G,A) G (U,U) G	BFT
+M2 (U,U)  (G,U)  (G,G) C (U,U) 	BFT
+PK1 (G,G) 	BFT
+2ktz_A
+H1 (A,U) AC	ISH
+M1 (G,C)  (A,U) A (C,G)  (C,G) 	ISH
+2kx8_A
+B1 (U,G) CU (G,C)	ARG
+2kxm_A
+H1 (U,U) UUAA	RIO
+B1 (G,C) CUU (G,C)	RIO
+2l1v_A
+H1 (G,C) UUCUAGUUAUAC	PRF
+E2 AUAAAAAACUAA	PRF
+PK1 (U,A) 	PRF
+PK2 (U,A) (A,U) (G,C) 	PRF
+2l94_A
+B1 (G,C) GGA (A,U)	L94
+2lwk_A
+B1 (A,U) A (G,C)	0EC
+2miy_A
+H1 (G,C) CUUAGCUUCUUU	PRF
+E1 AAAGGAGAA	PRF
+2qwy_A
+B2 (C,G) U (A,U)	SAM
+I1 (G,A) U (A,A) A	SAM
+E1 GCGCGGCGAUUUAA	SAM
+PK2 (A,U) 	SAM
+2tob_A
+H1 (U,U) UAGG	TOA
+H1 (U,U) UAGG	2TB
+H1 (U,U) UAGG	TOC
+I1 (U,G) G (G,A) U	TOA
+I1 (U,G) G (G,A) U	2TB
+2xo1_A
+H2 (G,C) UUUCUA	N6M
+M1 (A,U) UAA (U,A)  (G,C)  (C,G) AU (U,A) 	N6M
+PK1 (U,A) 	N6M
+2ygh_A
+I1 (C,G) AA (C,G) U	SAM
+M1 (C,G) AAGA (G,C)  (G,C) AAU (U,A)  (G,C) 	SAM
+2yie_Z
+I1 (G,C) A (U,A) AC	FMN
+E1 GGAUU	FMN
+E2 AUGAGAGAAGAUUCG	FMN
+379d_B
+H1 (G,A) UA	CO
+E2 UCACCAC	CO
+3d0u_A
+B1 (G,C) C (G,C)	LYS
+B5 (G,G) A (G,A)	LYS
+M1 (G,G)  (G,C) GA (A,U)  (G,U)  (G,A)  (G,G) 	LYS
+3dig_X
+B1 (G,C) C (G,C)	SLZ
+B6 (G,G) A (G,A)	SLZ
+M1 (G,G)  (G,C) GA (A,U)  (G,U)  (G,A)  (G,G) 	SLZ
+3ds7_A
+H2 (G,C) AUCCCG	GNG
+M1 (A,U) CAA (U,A)  (G,C)  (C,G) AC (U,A) 	GNG
+PK1 (C,G) 	GNG
+3e5c_A
+B1 (G,A) AUG (C,G)	SAM
+M1 (C,G) G (A,G) UAA (C,G)  (G,C) 	SAM
+3f2q_X
+M1 (G,A) GGG (C,G) AC (C,G)  (A,G) AUGAG (A,G) 	FMN
+M2 (G,C)  (G,C) GA (A,U) UGA (U,A) AC (C,G) 	FMN
+3fu2_B
+H1 (G,A) UUCUAGCAC	PRF
+E1 CUAUAAAAAACUAA	PRF
+PK1 (U,A) 	PRF
+PK3 (C,U) (U,C) (A,A) (G,A) 	PRF
+3gca_A
+H1 (G,C) UCGCAGUAAC	PQ0
+E1 UUAACAAAACAAG	PQ0
+PK1 (U,A) 	PQ0
+PK4 (G,C) 	PQ0
+3gs5_A
+3gx7_A
+I1 (C,G) AA (C,G) U	SAM
+M1 (C,G) AAGA (G,C)  (G,C) AAU (U,A)  (G,C) 	SAM
+3k1v_A
+H1 (G,C) UUCUAGC	PRF
+E1 UAUAAAAAACUAA	PRF
+PK1 (U,A) 	PRF
+PK3 (C,A) (U,U) (A,C) (G,A) 	PRF
+3la5_A
+H2 (G,C) CUUCCA	5AZ
+M1 (A,U) UAA (U,A)  (G,C)  (C,G) AC (U,A) 	5AZ
+PK1 (U,A) 	5AZ
+3mij_A
+H1 (G,G) UUAGG	R14
+E1 UAGG	R14
+PK1 (G,G) 	R14
+3npn_A
+H2 (G,C) GCUAGUCCGAA	SAH
+I1 (U,A) GCA (A,C) C	SAH
+M1 (U,G)  (U,A)  (G,C) G (G,U) 	SAH
+PK2 (C,G) 	SAH
+3npq_A
+H2 (G,C) GCUCGUCCGAAA	SAH
+I3 (U,A) GCAA (G,C) CC	SAH
+M1 (C,G)  (U,A)  (G,C) G (G,C) 	SAH
+PK2 (C,G) 	SAH
+3owi_A
+B2 (G,A) AA (G,C)	GLY
+B4 (C,G) U (C,G)	GLY
+3q3z_V
+B1 (C,G) AAU (G,A)	C2E
+B3 (U,A) AGUAGUGCAACCG (A,A)	C2E
+PK1 (U,A) 	C2E
+3rkf_A
+H2 (G,C) UUUCUA	DX4
+M1 (A,U) UAA (C,G)  (G,C)  (C,G) AC (U,A) 	DX4
+PK1 (U,A) 	DX4
+3sd3_A
+H1 (U,U) GGGAUG	FFO
+I1 (A,G) GUA (G,U) GCAUCC	FFO
+I3 (A,U) A (U,U) CG	FFO
+PK1 (A,G) 	FFO
+PK2 (G,C) (G,C) (A,U) (U,A) (G,C) 	FFO
+3ski_A
+H2 (G,C) ACCCCG	GNG
+M1 (A,U) CA (G,U)  (G,C)  (C,G) AC (U,A) 	GNG
+PK1 (C,G) 	GNG
+3suh_X
+B1 (G,C) G (U,G)	FFO
+I1 (G,G) U (G,A) C	FFO
+4aob_A
+I2 (C,G) AA (C,G) U	SAM
+M1 (C,G) AAGA (G,C)  (G,C) AAU (U,A)  (G,C) 	SAM
+4b5r_A
+I1 (C,G) AA (C,G) U	SAM
+M1 (C,G) AAGA (G,C)  (G,C) AAU (U,A)  (G,C) 	SAM
+4fel_B
+H2 (G,C) UUUCUA	HPA
+M1 (A,U) UAA (A,A)  (G,C)  (C,G) AC (U,A) 	HPA
+PK1 (U,A) 	HPA
+4frg_B
+M2 (G,C) GAAA (G,C) AG (A,U)  (A,A) AUG (C,G) 	I2A
+PK1 (C,G) 	I2A
+4frn_A
+H3 (U,A) UACUUG	I2A
+H5 (G,C) CAAGGAGA	I2A
+M2 (G,C) GAAA (G,C) AC (A,U)  (A,A) AUG (C,G) 	I2A
+PK1 (C,G) 	I2A
+4gma_Z
+H4 (G,C) CCCCCG	B1Z
+H6 (U,A) CGGGGGG	B1Z
+M2 (A,U) GGGAA (G,C) GC (A,U)  (A,G) AGACC (U,A) 	B1Z
+PK3 (C,G) (C,G) (C,G) (C,G) (C,G) (G,C) 	B1Z
+4gxy_A
+H4 (G,C) UCCCG	B1Z
+B6 (G,U) AG (U,G)	B1Z
+I3 (U,G) GA (C,C) G	B1Z
+M1 (U,U) G (C,G)  (U,A)  (A,C)  (U,U) 	B1Z
+M2 (G,C) GGAA (G,C) AC (G,C)  (A,G) GAAA (C,G) 	B1Z
+4jf2_A
+H2 (A,G) CUUAUUUCCUUU	PRF
+E1 AAAGGAGA	PRF
+4kqy_A
+I4 (C,G) AA (C,G) U	SAM
+M1 (C,G) AAGA (G,C)  (A,U) AAA (U,A)  (G,C) 	SAM
+4oqu_A
+I1 (C,G) AA (C,G) U	SAM
+M1 (C,G) ACGA (G,C)  (G,U) CA (C,G)  (G,C) 	SAM
+4qk9_A
+H3 (U,G) AGUCUCUUUC	2BA
+B1 (C,G) GU (C,G)	2BA
+I2 (C,G) AAU (G,C) A	2BA
+M1 (G,A) AA (U,A)  (A,U)  (A,G) 	2BA
+M2 (G,A) AA (U,U)  (A,G)  (A,G) 	2BA
+E1 UGGAAAGAGGG	2BA
+PK1 (A,U) 	2BA
+4qka_A
+H3 (U,G) ACCUUCU	2BA
+B1 (C,G) GA (C,G)	2BA
+I2 (C,G) GCUUUUU (G,C) A	2BA
+M1 (G,A) AA (U,U)  (A,G)  (A,G) 	2BA
+M2 (U,A) UAA (U,U)  (A,G) C (A,U) 	2BA
+4qlm_A
+H2 (U,G) ACUCCUUC	2BA
+B1 (G,A) AAC (G,C)	2BA
+B2 (C,G) GU (C,G)	2BA
+I2 (C,G) AG (G,C) A	2BA
+M1 (G,A) AA (U,U)  (A,G)  (A,G) 	2BA
+E2 UCCGAAGGAGAA	2BA
+4qln_A
+H3 (U,G) ACUCCUUC	2BA
+B1 (C,G) GU (C,G)	2BA
+I2 (C,G) AG (G,C) A	2BA
+M1 (G,A) AA (C,G)  (G,C)  (A,G) 	2BA
+M2 (G,A) AA (U,U)  (A,G)  (A,G) 	2BA
+E2 UCCGAAGGAGAA	2BA
+4rum_A
+B1 (A,A) G (C,G)	CO
+M1 (C,G)  (A,G) G (G,C)  (A,G) G (G,C) 	CO
+4rzd_A
+M1 (U,A) UAGGCUC (C,G) CCA (A,C) A (A,U) 	PRF
+E1 GAGCAACUUA	PRF
+4ts0_Y
+H1 (G,G) UU	38E
+H2 (A,U) GAG	38E
+X1 AGU	38E
+E2 GUGAGCUCCGUAACUGGUCGCGU	CCC
+PK1 (A,A) 	38E
+4tzx_X
+H2 (G,C) UUUCUA	ADE
+M1 (A,U) UAA (U,A)  (G,C)  (C,G) AU (U,A) 	ADE
+PK1 (U,A) 	ADE
+4xw7_A
+H1 (G,C) GAAA	AMZ
+B1 (U,G) GGCGAAC (A,G)	AMZ
+PK1 (G,A) 	AMZ
+4y1i_A
+E1 CC	GTP
+4y1m_B
+E1 C	GTP
+4y1m_A
+E1 C	GTP
+4yaz_R
+B1 (A,U) A (G,C)	4BW
+M1 (G,C) ACAAUA (C,G) A (A,U) GC (C,G) 	4BW
+4znp_A
+H1 (G,C) GAAA	AMZ
+H2 (C,G) GACCGCCUG	AMZ
+I1 (U,U) GGCGGAUUA (G,C) G	AMZ
+PK1 (G,C) (G,C) (C,G) (G,C) (G,C) 	AMZ
+4znp_B
+H1 (G,C) GAAA	AMZ
+H2 (C,G) GACCGCCUG	AMZ
+I3 (C,G) UGGCGGAUUA (G,C) GU	AMZ
+PK1 (G,C) (G,C) (C,G) (G,C) (G,C) 	AMZ
+5bjo_Y
+H1 (G,G) AG	747
+H2 (G,G) AG	747
+I1 (G,C) AAG (G,G) U	747
+I2 (G,C) AG (G,G) U	747
+PK1 (G,A) 	747
+PK2 (G,G) 	747
+5btp_B
+H1 (G,C) AAUUAA	AMZ
+H2 (C,G) GACCGUCUG	AMZ
+I2 (U,U) GACGGAAC (G,C) A	AMZ
+PK1 (G,C) (A,U) (C,G) (G,C) (G,C) 	AMZ
+5c7w_C
+H2 (G,C) UUUCUA	HPA
+I1 (A,U) A (U,A) U	HPA
+M1 (A,U) UAA (U,A)  (G,C)  (C,G) AC (U,A) 	HPA
+PK1 (U,A) 	HPA
+5d5l_A
+H2 (A,G) CUUAUUUCCUUU	PRF
+E1 AAAGGAGA	PRF
+PK1 (U,A) (C,G) (C,G) (U,A) (U,A) 	PRF
+5dh8_A
+H1 (C,G) UGAU	ZN
+H2 (U,A) GGG	ZN
+E1 GGGUACUUAAGCCCA	ZN
+PK1 (A,G) 	ZN
+5kpy_A
+H2 (U,A) UGA	4PQ
+B2 (U,A) C (G,C)	4PQ
+M1 (A,A)  (U,A)  (U,A) UUGUU (G,C) U (A,A) 	4PQ
+PK1 (A,U) 	4PQ
+5lwj_A
+H2 (G,A) U	GTP
+I1 (C,G) AC (G,A) UAC	GTP
+M1 (A,A)  (G,A) GA (G,C) A (A,A) 	GTP
+PK1 (G,C) 	GTP
+5lyv_A
+B1 (A,U) UU (G,C)	OHX
+B2 (C,G) U (G,C)	OHX
+E1 G	CCC
+5nep_A
+H1 (G,C) ACGA	MGX
+5ny8_A
+I1 (U,A) A (C,G) ACAAG	AGU
+E1 CCGGACGAGGU	AGU
+5ob3_A
+H2 (G,G) AGU	1TU
+B1 (G,G) GGU (C,G)	1TU
+B2 (G,C) UU (G,C)	1TU
+M1 (C,G) GGG (U,A) GUA (G,G) U (G,C) 	1TU
+PK2 (G,G) 	1TU
+PK3 (G,G) 	1TU
+5v0o_A
+E1 UGAGGUGCC	8OS
+5v3f_A
+H1 (G,G) ACGGU	74G
+H2 (G,G) AGAG	74G
+M1 (G,A) AAGG (G,G) CG (G,G) AG (A,G) 	74G
+PK4 (G,G) 	74G
+5vcf_A
+X1 GGC	8OS
+6az4_A
+E1 CUGCUGCUGCC	GP3
+6c63_A
+H1 (G,A) GAG	EKJ
+H2 (G,G) GAGA	EKJ
+H3 (G,G) AGGA	EKJ
+M1 (G,A) AA (G,A)  (G,G) GAA (G,G)  (A,G) 	EKJ
+PK2 (G,G) 	EKJ
+6c65_C
+H1 (G,A) GAG	EKJ
+H2 (G,G) GAGA	EKJ
+H3 (G,G) AGGA	EKJ
+M1 (G,A) AA (G,A)  (G,G) GUA (G,G)  (A,G) 	EKJ
+PK2 (G,G) 	EKJ
+6cc1_A
+E1 A	GTP
+E2 UUCC	GTP
+6cc3_A
+E1 CC	GTP
+6cc3_B
+E1 C	GTP
+6ck4_A
+I1 (C,G) U (A,G) AGC	G4P
+I3 (C,U) A (C,G) GA	G4P
+M1 (A,G)  (G,A)  (C,U) A (G,A) 	G4P
+M2 (G,A)  (U,A)  (G,C)  (A,G) 	G4P
+E1 CACU	GTP
+PK1 (G,A) 	G4P
+6ck4_B
+I1 (C,C) U (A,C) GAG	G4P
+I2 (A,A) C (A,G) G	G4P
+M1 (A,G)  (G,C)  (A,A) U (G,A) 	G4P
+M2 (G,C)  (U,C)  (A,C)  (C,G) 	G4P
+PK1 (A,C) 	G4P
+6ck4_D
+I1 (A,G) C (C,C) CGA	G4P
+I3 (C,C) C (U,G) C	G4P
+M1 (G,A) A (A,A) CC (A,G) AGG (A,G) 	G4P
+M2 (A,A)  (A,A)  (C,U)  (A,A) 	G4P
+6dlq_A
+B3 (A,U) GU (G,C)	PRP
+B5 (A,A) G (G,G)	PRP
+M1 (A,U)  (G,A) CA (C,G) GUAGG (U,A) 	PRP
+M2 (G,A)  (U,A)  (G,U)  (A,G) 	PRP
+PK1 (G,A) 	PRP
+PK2 (C,G) 	PRP
+6dmc_A
+B3 (A,U) GC (G,C)	G4P
+I1 (C,G) A (C,G) CAA	G4P
+M1 (A,U)  (G,A)  (C,G)  (U,A) 	G4P
+M2 (G,A)  (U,A)  (G,U)  (A,G) 	G4P
+PK1 (G,A) 	G4P
+6dvk_H
+6e1t_A
+H1 (G,C) UCGCAGU	HLV
+E1 UUAACAAAACAAG	HLV
+PK1 (U,A) 	HLV
+PK4 (G,C) 	HLV
+6e8s_A
+H1 (G,G) AAG	EKJ
+H2 (G,G) UAU	EKJ
+B1 (G,G) U (G,G)	EKJ
+M1 (A,U) G (G,G) AUU (G,G)  (G,U) A (U,A) 	EKJ
+PK2 (A,U) 	EKJ
+PK4 (A,A) 	EKJ
+6e8t_C
+H1 (G,G) AAG	HZG
+H2 (G,G) UAU	HZG
+B1 (G,G) U (G,G)	HZG
+M1 (A,U) G (G,G) UUU (G,G)  (G,U) A (U,A) 	HZG
+PK3 (U,U) 	HZG
+6e8u_B
+H1 (G,G) GUUU	HZD
+H2 (A,U) UGGGG	HZD
+B1 (A,U) GGA (A,U)	HZD
+M1 (A,U)  (G,G) GU (A,U) AG (U,A) 	HZD
+PK1 (G,G) 	HZD
+PK2 (U,U) 	HZD
+PK3 (G,G) 	HZD
+6fz0_A
+B1 (C,A) UG (U,A)	SAM
+B2 (A,U) C (U,U)	SAM
+E1 AGGCGCAUUUGAA	SAM
+PK2 (G,G) 	SAM
+6gzk_A
+B1 (U,A) A (C,G)	FH8
+M1 (C,G)  (U,U) U (G,G)  (G,C) 	FH8
+6hag_A
+H1 (C,G) GGCUUCCU	SAH
+E1 AGAUUGAAUUAUUGGAGCA	SAH
+PK1 (G,C) (C,G) (U,A) (C,G) (C,G) 	SAH
+6izp_A
+I1 (U,A) GGA (A,U) GGA	B2R
+6jjh_B
+H2 (G,G) CG	POH
+X1 CG	POH
+E2 A	POH
+PK2 (G,G) 	POH
+6n5q_A
+H3 (U,G) ACCUUCU	2BA
+B1 (C,G) GA (C,G)	2BA
+I2 (C,G) GCUUUUU (G,C) A	2BA
+M1 (G,A) AA (U,U)  (A,G)  (A,G) 	2BA
+M2 (U,C) AA (U,U)  (A,G)  (C,U) 	2BA
+6p2h_A
+B2 (G,A) CCUCC (A,U)	GNG
+M1 (G,C)  (U,A) C (C,G) UCAC (C,G) 	GNG
+6qn3_A
+B1 (G,G) UUC (A,C)	GLN
+X1 CAUGAA	GLN
+E1 C	GLN
+6svs_A
+H2 (U,A) GGCCUUUCUUAAAAAAAA	GTP
+E1 GAAGGUUUUUCUUUUU	GTP
+E1 GAAGGUUUUUCUUUUU	A23
+PK1 (G,U) (A,U) (A,U) (G,C) (G,C) 	GTP
+6uet_A
+I1 (C,G) AA (C,G) U	SAM
+M1 (C,G) AUGA (G,C)  (G,C) CCGGGUGAU (G,C) 	SAM
+6ugj_A
+B1 (A,U) GU (C,G)	URA
